@@ -1,0 +1,7 @@
+server:
+    origin: http://nestjs-taskmanagement-frontend-pla-sql-pratice.s3-website-eu-west-1.amazonaws.com/
+
+db:
+  synchronize: false
+
+
